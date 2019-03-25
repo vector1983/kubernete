@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.12.3
+FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.0
 MAINTAINER huwei
